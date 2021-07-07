@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zone>
+  <short>Custom</short>
+  <description>All network connections are configured by yourself.</description>
+  <service name="default"/>
+</zone>

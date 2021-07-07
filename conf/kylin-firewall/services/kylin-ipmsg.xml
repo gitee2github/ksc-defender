@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>麒麟传书</short>
+  <version/>
+  <description>麒麟传书</description>
+  <port protocol="tcp" port="9696-9697"/>
+  <port protocol="udp" port="9696"/>
+</service>

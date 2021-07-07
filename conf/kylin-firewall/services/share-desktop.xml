@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<service>
+  <short>&#x684C;&#x9762;&#x5171;&#x4EAB;</short>
+  <version/>
+  <description>&#x684C;&#x9762;&#x5171;&#x4EAB;</description>
+  <port protocol="tcp" port="5900"/>
+</service>

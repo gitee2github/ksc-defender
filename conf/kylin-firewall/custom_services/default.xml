@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>default</short>
+  <description>The default service disable all network rules，you should add network rules by yourself.</description>
+  <helper name="default"/>
+</service>
