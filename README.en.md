@@ -1,8 +1,5 @@
-
 ![](https://gitee.com/openeuler/G11N/raw/master/learning-materials/open-source-basics/images/ksc-defender.png)
-
 ----------
-
 ## Introduction to KSC-Defender
 
 KSC-Defender is a terminal tool for OS security hardening. It adopts a joint framework of multiple security mechanisms to provide systematic protection for data files, access mechanisms, network control, and system hardening, and supports the linkage of security ecosystem applications such as system-level vulnerability scanning, intrusion detection, and antivirus software. KSC-Defender can be used on openEuler 21.09 and LTS or later versions. Currently, it supports the account security, firewall, and antivirus modules.
